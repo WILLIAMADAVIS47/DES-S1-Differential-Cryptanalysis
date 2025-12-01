@@ -1,0 +1,19 @@
+Running differential experiment on S1 with:
+  delta_in (ΔX) = 2 (binary 000010)
+  num_trials    = 20000
+
+Differential experiment results for DES S-box 1 (S1)
+Total trials: 20000
+delta_out  count   probability
+--------------------------------
+  12        3761   0.188050
+  10        2479   0.123950
+   3        2405   0.120250
+  11        1925   0.096250
+   9        1919   0.095950
+  13        1879   0.093950
+   5        1272   0.063600
+   7        1261   0.063050
+  14        1246   0.062300
+   6        1194   0.059700
+  15         659   0.032950
